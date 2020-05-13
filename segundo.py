@@ -1,3 +1,6 @@
+## comparación de un rostro base para el reconocimiento
+
+
 import face_recognition
 import cv2
 
